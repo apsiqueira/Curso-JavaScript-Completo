@@ -18,16 +18,19 @@ definir o arquivo setings.json > inserir >
 </code>
 
 </ol>
-Editor:tab Size =2
+
 <ol>
+Editor:tab Size =2
 </ol>
 Editor:Detect identation: disable
 <ol>
-</ol>
 Editor:Render Whitespace :all
+</ol>
+
 <ol>
-</ol>
 Editor:Render Whitespace :all
+</ol>
+
 <ol>
 
 workbentch >editor: Enable Preview: disable
